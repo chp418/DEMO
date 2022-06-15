@@ -1,3 +1,4 @@
 # My Demo file
-Hello Ted\n
+Hello Ted
+
 You're looking fine and dandy this morning.
